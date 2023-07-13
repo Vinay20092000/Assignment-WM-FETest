@@ -1,0 +1,39 @@
+{
+  "flightData" : [
+    {
+      "title": "Vistara",
+      "fare": 2789,
+      "source": "Bengaluru",
+      "destination": "Hyderabad",
+      "timings": "7am to 8pm"
+    },
+    {
+      "title": "Indigo",
+      "fare": 3436,
+      "source": "Mysuru",
+      "destination": "Hyderabad",
+      "timings": "7pm to 8.30pm"
+    },
+    {
+      "title": "Air Alliance",
+      "fare": 4328,
+      "source": "Mysuru",
+      "destination": "Hyderabad",
+      "timings": "7.50pm to 9.20pm"
+    },
+    {
+      "title": "Indigo",
+      "fare": 4328,
+      "source": "Hyderabad",
+      "destination": "Mysuru",
+      "timings": "7pm to 8.30pm"
+    },
+    {
+      "title": "Air India",
+      "fare": 6300,
+      "source": "Hyderabad",
+      "destination": "Jaipur",
+      "timings": "7pm to 8.30pm"
+    }
+  ]
+} 
