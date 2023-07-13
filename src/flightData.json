@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Flight 1",
+      "fare": 200,
+      "source": "New York",
+      "destination": "Los Angeles",
+      "timings": "3 hours"
+    },
+    {
+      "title": "Flight 2",
+      "fare": 150,
+      "source": "London",
+      "destination": "Paris",
+      "timings": "2.5 hours"
+    },
+    {
+      "title": "Flight 3",
+      "fare": 300,
+      "source": "Tokyo",
+      "destination": "Sydney",
+      "timings": "9 hours"
+    }
+  ]
+  
